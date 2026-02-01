@@ -1,8 +1,9 @@
 # Hi 👋 I'm Ogabek Mannonov
 
 🎯 Junior Frontend Developer  
-💻 I build websites using **HTML, CSS, JavaScript**  
-🚀 Currently learning **React**
+💻 Mainly focused on Frontend (HTML, CSS, JavaScript)  
+🧠 Can also build backend using Node.js  
+🚀 Interested in startups and managing large projects
 
 ---
 
@@ -11,23 +12,17 @@
 - CSS (Flexbox, Grid)
 - JavaScript (ES6+)
 - Git & GitHub
+- Node.js
+- Postgres (PgAdmin)
 
 ---
 
 ## 🚀 Featured Projects
-### 🏋️ Fit App
-Fitness website with interactive features  
-🔗 Code: https://github.com/Ogabek-Mannonov/Fit-App
+## ⭐ Main Project
+### 🎉 To‘yingiz Qayerda
+Real startup-like project focused on solving a real problem.
 
-### 🌐 Photos Website
-Responsive website with clean UI  
-🔗 Code: https://github.com/Ogabek-Mannonov/photos-website
-
-### 🧪 Company Test
-Test task project for frontend position  
-🔗 Code: https://github.com/Ogabek-Mannonov/company-test
-
----
+🔗 Code: https://github.com/Ogabek-Mannonov/Toyingiz-Qayerda
 
 ## 📫 Contact Me
 - 📧 Email: **mannonovogabek270@gmail.com**
