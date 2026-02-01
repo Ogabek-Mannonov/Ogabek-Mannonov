@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Ogabek Mannonov
 
-<!--
-**Ogabek-Mannonov/Ogabek-Mannonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Frontend Developer  
+💻 I build websites using **HTML, CSS, JavaScript**  
+🚀 Currently learning **React**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML
+- CSS (Flexbox, Grid)
+- JavaScript (ES6+)
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+### 🏋️ Fit App
+Fitness website with interactive features  
+🔗 Code: https://github.com/Ogabek-Mannonov/Fit-App
+
+### 🌐 Photos Website
+Responsive website with clean UI  
+🔗 Code: https://github.com/Ogabek-Mannonov/photos-website
+
+### 🧪 Company Test
+Test task project for frontend position  
+🔗 Code: https://github.com/Ogabek-Mannonov/company-test
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **mannonovogabek270@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/ogabek-m
+- 🐙 GitHub: https://github.com/Ogabek-Mannonov
+
+---
+
+⭐ Always learning and improving every day
