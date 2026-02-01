@@ -24,6 +24,12 @@ Real startup-like project focused on solving a real problem.
 
 🔗 Code: https://github.com/Ogabek-Mannonov/Toyingiz-Qayerda
 
+### 🧠 Quiz API
+REST API for quiz application.  
+Built as a collaborative project.
+
+🔗 Code: https://github.com/Ogabek-Mannonov/Quiz-API
+
 ## 📫 Contact Me
 - 📧 Email: **mannonovogabek270@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/ogabek-m
