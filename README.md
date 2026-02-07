@@ -71,19 +71,6 @@ REST API for quiz application • Collaborative project
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ogabek-Mannonov&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabek-Mannonov&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ogabek-Mannonov&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contact
 - 📧 Email: **mannonovogabek270@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/ogabek-m
