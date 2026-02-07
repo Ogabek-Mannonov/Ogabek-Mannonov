@@ -2,10 +2,10 @@
 <h3 align="center">Junior Frontend Developer | HTML • CSS • JavaScript</h3>
 
 <p align="center">
-  🎯 Junior Frontend Developer <br/>
+  <b>🎯 Junior Frontend Developer</b> <br/>
   💻 Focused on Frontend (HTML, CSS, JavaScript) <br/>
   🧠 Backend: Node.js (basic) <br/>
-  🚀 Interested in startups & managing large projects
+  🚀 Interested in startups & building real projects
 </p>
 
 <p align="center">
@@ -20,57 +20,71 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/ogabek-m">
+    <img src="https://img.shields.io/badge/LinkedIn-ogabek--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mannonovogabek270@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mannonovogabek270%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧩 About Me
+- ✅ Building real projects and improving every day  
+- ✅ Clean UI, responsive layout, modern JS  
+- ✅ Interested in startups and product thinking  
+
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⭐ Main Project — To‘yingiz Qayerda
+### ⭐ To‘yingiz Qayerda (Main Project)
 🎉 **Startup-like fullstack project focused on solving a real problem**
 
-- 🔗 Code: https://github.com/Ogabek-Mannonov/Toyingiz-Qayerda  
+- 🔗 Repo: https://github.com/Ogabek-Mannonov/Toyingiz-Qayerda  
 - 🛠 Tech: HTML, CSS, JavaScript, Node.js, PostgreSQL  
 - 📌 Features: venue listing, filtering, booking logic *(ongoing)*
 
 ---
 
 ### 🧠 Quiz API
-REST API for quiz application  
-Built as a collaborative project.
+REST API for quiz application • Collaborative project
 
-- 🔗 Code: https://github.com/Ogabek-Mannonov/Quiz-API  
+- 🔗 Repo: https://github.com/Ogabek-Mannonov/Quiz-API  
 - ⚙️ Stack: Node.js, REST principles
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ogabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogabek-Mannonov&show_icons=true&theme=tokyonight&cache_seconds=86400
-)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ogabek-Mannonov&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabek-Mannonov&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabek-Mannonov&layout=compact&theme=tokyonight&cache_seconds=86400
-)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ogabek-Mannonov&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 - 📧 Email: **mannonovogabek270@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/ogabek-m
 - 🐙 GitHub: https://github.com/Ogabek-Mannonov
