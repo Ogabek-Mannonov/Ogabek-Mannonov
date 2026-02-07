@@ -61,10 +61,10 @@ Built as a collaborative project.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ogabek-Mannonov&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabek-Mannonov&layout=compact&theme=tokyonight" />
-</p>
+![Ogabek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogabek-Mannonov&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabek-Mannonov&layout=compact&theme=tokyonight)
+
 
 ---
 
