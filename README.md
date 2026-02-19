@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>🎯 Junior Frontend Developer</b> <br/>
-  💻 Focused on Frontend (HTML, CSS, JavaScript) <br/>
+  💻 Focused on Frontend (HTML, CSS, JavaScript, React) <br/>
   🧠 Backend: Node.js (basic) <br/>
   🚀 Interested in startups & building real projects
 </p>
